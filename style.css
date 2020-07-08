@@ -122,6 +122,16 @@
 }
 footer{
     background: #282531;
+    padding: 50px 100px 0px 100px;
+}
+.f-message, .f-course, .f-terms, .f-usefull-link{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 20px 0px 50px 0px;
+    list-style: none;
 }
 .footer-text{
     font-family: Poppins;
