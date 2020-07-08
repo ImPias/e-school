@@ -1,4 +1,4 @@
-.nav-bg{
+.nav-menu{
     background: #F0FFF0;
 }
 .green-button{
@@ -9,7 +9,8 @@
     border-radius: 25px;
 }
 .banner{
-
+    padding: 70px;
+    background: #F0FFF0;
 }
 .banner h1{
     font-family: Poppins;
@@ -33,4 +34,100 @@
     font-weight: normal;
     font-size: 16px;
     color: #6C6B6B;
+}
+.feature{
+    padding: 30px 60px;
+    background: #FFFFFF;
+}
+.card{
+    padding: 30px 6px;
+}
+.feature-box{
+    text-align: center;
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.feature-active{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.feature img{
+    width: 65px;
+    height: 85px;
+}
+.card-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #413960;
+}
+.card-text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #585859;
+}
+.courses{
+    padding: 30px 60px;
+    background: #FFFFFF;
+}
+.courses h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #413960;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.courses-box{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-footer{
+    border-top: none;
+    background: #FFFFFF;
+}
+.start-date img, .seats img{
+    width: 24px;
+    height: 24px;
+}
+.testimonial{
+
+}
+.testimonial h1{
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #000000;
+    margin: 50px auto;
+}
+.testimonial img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.testimonial p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #000000;
+    width: 580px;
+    padding: 50px;
+}
+footer{
+    background: #282531;
+}
+.footer-text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #CDCDCD;
+    text-align: center;
 }
